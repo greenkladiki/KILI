@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2017-12-10T21:22:05+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/new.aloha/Desktop/учеба/КИЛИ/KILI/live corpus/music.MOV" MIME_TYPE="video/quicktime" RELATIVE_MEDIA_URL="../music.MOV"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:8b0123e5-1d2b-47c8-99e8-552564bdf248</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">55</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="96"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="2096"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="3660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="5460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="6060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="13630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="14849"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="24484"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="24545"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="27772"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="27800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="28848"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="28984"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="49272"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="49575"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="55484"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="55530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="63045"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="63560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="69030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="69111"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="71787"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="71893"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="72742"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="72934"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="75333"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="75439"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="76287"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="76393"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="81484"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="81696"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="84610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="85136"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="92712"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="92818"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="95196"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="95242"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="96666"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="96742"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="98712"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="98848"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="100575"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="100621"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="106348"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="107681"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="115090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="115166"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="118420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="119190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="126250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="126520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="132050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="133030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="136530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="137270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="146450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="147080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="150970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="151780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="169489"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="170306"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="173000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="173064"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="181428"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="181510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="185612"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="185673"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="191040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="191134"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="201448"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="202204"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="205489"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="206183"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="208183"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="208408"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="223918"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="224612"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="227122"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="227265"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="237204"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="237384"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="247510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="248081"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="250040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="250941"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="256122"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="256306"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="257551"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="257632"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="263979"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="264081"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="278285"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="278618"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="283836"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="284087"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="297857"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="298612"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="301428"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="303000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="306734"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="306816"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="314755"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="314836"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="319755"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="al" LINGUISTIC_TYPE_REF="paragraph" PARTICIPANT="A" TIER_ID="Ars@text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>Вот, музыку писать очень легко.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>На самом деле. Если к этому подходить с ...ээээ... с конструктивного подхода.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>Просто берешь из разных стилей все самое крутое… хммм… что-то придумываешь, что тебе первое в голову приходит.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>Например… ээээ... диско-панк!</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>Почему бы и нет?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>Ты берешь какие-нибудь рифы у панк-рока, гитарные, и накладываешь это на подвижное диско - ударные на диско - и, к примеру, с.... можно смешать… ааам… вокал панк-рока с подпевками с бэк-вокала.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>Ну что-то, вот, я сейчас просто на ходу придумываю. Что-то такое. Вот. Ааа…</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>Это сложно, если только ты не… эээээ… у тебя нет багажа большого музыкального.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>сли у тебя есть большой музыкальный багаж, есть образование - это вопрос времени.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>Просто сидишь и пишешь. Вот…</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>Просто какую-то музыку.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>Просто чтобы она была как-то хоть что-то как-то востребована.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>Это несложно.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>Написать что-то принципиально новое - это действительно сложно... ээээ…</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>Это то, чего у нас не происходило уже давно.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>Последний, кто-то что-то принципиально… эээ… новое писал, был Прокофьев?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>Если не ошибаюсь. И Свиридов.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>Вот эти вот ребята.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>Это последние классики вообще мировые.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>Это на них музыка остановилась.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>И все, что сейчас, - это что-то раздробленное, такое… ээээ… непонятное что-то каждый сам делает.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>Вот. Это люди - последние люди такие, мирового масштаба, которые в музыку что-то принципиально новое привносили, которые двигали.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>Вот, очень, конечно, приятно то, что они жили в России.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>Вот, и последние такие… эээ… последние принципиально новые какие-то движения музыкальные… эээ… были в России. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>Это все происходило в начале ХХ века и до середины ХХ века. Вот.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>Аааа… сейчас все раздроблено.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>В основном неизвестные музыканты, это те, кто не имеют музыкального образования, как правило, это в девяноста процентах они не имеют музыкального образования. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>Вот. В лучшем случае им пишут музыку люди, которые имеют музыкальное образование. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>Вот. Эээ… сейчас… все… новые технологии появились, появились новые подходы к написанию музыки, но э… нужно иметь ээ… желательно вообще иметь команду людей, которая бы …э... каждый был в своей какой-то сфере продвинутый.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>Вот. Чтобы писать действительно что-то новое. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>И нужно очень широкий ум иметь, который ну не ум, ну широкие познания вообще в музыке, не только в музыке.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>Но и вообще нужно понимать, что людям нужно, маркетинг, там куча-куча всего.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>Сейчас ...э… что-то принципиально новое написать одновременно легко и сложно.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>Легко - потому что куча средств, но сложно - потому что ээ… очень много нужно всего учитывать, очень много факторов.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>Поэтому музыка в данный момент, можно сказать, что она в принципе остановилась.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>Ничего принци… она очень медленно развивается.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>Ничего принципиально нового: как раньше - классицизм - классицизм, потом романтизм появился, романтизм был, потом модерн появился, постмодерн появился, Шнитке и прочие товарищи. Сейчас такого нет.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>Сейчас ничего принципиально нового не появляется.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>Вот… иии… еще принципиальное изменение, которое произошло с начала ХХ века: если раньше музыку писали для аристократов, потому что только они могли за это платить.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>Сейчас достаток у большинства людей повысился и музыка пишется в основном для масс, для массового потребителя.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>Для него ничего принципиально нового не нужно.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>У массового потребителя, у него нет, как правило, культурный уровень у него невысокий.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>У него нет культурной памяти. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>Он не может сказать: «А это уже было там 10 лет назад, это уже писали», ему это не очень интересно, он не знает об этом.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>Он слышит что-то из приемника радио, он слышит что-то в интернете, по телевизору и если это как-то с его минимальными запросами культурными сходится, значит, ему это заходит. Вот. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>С этим связан успех группы «Ленинград», например, современной. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>Очень смешно, что сам Сергей Шнуров по поводу успеха своей группы говорит, что он очень сожалеет о низком культурном уровне людей, и говорит, что … «то, что я популярен, хорошо,» - говорит, - «но, вам нужно задуматься.»</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>Это очень смешно. У него интересный юмор. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51" TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>Вот. Вот такая … в такой ситуации сейчас музыка находится. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>Очень много всего, много возможностей, но.. а они как будто бы не используются. Вот.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>Очень интересно, что потом будет и куда это все потом пойдет.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="al" LINGUISTIC_TYPE_REF="gestures" PARTICIPANT="A" TIER_ID="A-gestures"/>
+    <TIER ANNOTATOR="al" LINGUISTIC_TYPE_REF="gesture_meaning" PARENT_REF="A-gestures" PARTICIPANT="A" TIER_ID="A-gesturesmeaning"/>
+    <TIER ANNOTATOR="al" LINGUISTIC_TYPE_REF="paragraph" PARTICIPANT="B" TIER_ID="Aln@text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>Start, please.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision" CONTROLLED_VOCABULARY_REF="Gesture phases" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="paragraph" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="association" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="subdivision" TIME_ALIGNABLE="false"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001" LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid2">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid3">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid2">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid3">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid4">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid5">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid6">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid7">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid8">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid9">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid10">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid11">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid12">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
